@@ -23,5 +23,5 @@ class Cat(Animal):
 
         def sound(self):
             """Cat sound"""
-            return "Meow1"
+            return "Meow"
 
